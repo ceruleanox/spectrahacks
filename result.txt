@@ -1,0 +1,1025 @@
+
+Processing video for object annotations.
+
+Finished processing.
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.0s to 4.68s
+Confidence: 0.9757340550422668
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.7387825846672058
+	top   : 0.6526848673820496
+	right : 0.7949033975601196
+	bottom: 0.8192875981330872
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.0s to 9.0s
+Confidence: 0.9164831638336182
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.34516414999961853
+	top   : 0.6011292934417725
+	right : 0.3871380686759949
+	bottom: 0.7839744687080383
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.0s to 11.52s
+Confidence: 0.9412451386451721
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.5934726595878601
+	top   : 0.8765885829925537
+	right : 0.6511875987052917
+	bottom: 0.9960831999778748
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.0s to 4.92s
+Confidence: 0.9141352772712708
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.7552855014801025
+	top   : 0.29097801446914673
+	right : 0.7890298366546631
+	bottom: 0.444658488035202
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.0s to 4.68s
+Confidence: 0.9293541312217712
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.13685406744480133
+	top   : 0.40459883213043213
+	right : 0.1772296279668808
+	bottom: 0.5666828751564026
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.0s to 3.84s
+Confidence: 0.9372864365577698
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.7609300017356873
+	top   : 0.4345521032810211
+	right : 0.8010498285293579
+	bottom: 0.5934641361236572
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.0s to 0.36s
+Confidence: 0.9041153192520142
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.9315603971481323
+	top   : 0.1300431340932846
+	right : 0.9659284949302673
+	bottom: 0.24290259182453156
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.0s to 8.28s
+Confidence: 0.8893589973449707
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.3888603746891022
+	top   : 0.41922298073768616
+	right : 0.4278028905391693
+	bottom: 0.575282096862793
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.0s to 10.2s
+Confidence: 0.9641790390014648
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.4826314449310303
+	top   : 0.15181703865528107
+	right : 0.5184016227722168
+	bottom: 0.27859556674957275
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.0s to 5.4s
+Confidence: 0.8275863528251648
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.36845409870147705
+	top   : 0.21893875300884247
+	right : 0.4022476375102997
+	bottom: 0.3543080687522888
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.0s to 0.72s
+Confidence: 0.8427694439888
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.6273366212844849
+	top   : 0.11738099902868271
+	right : 0.65693199634552
+	bottom: 0.24395647644996643
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.0s to 2.16s
+Confidence: 0.8137131333351135
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.6099538803100586
+	top   : 0.13911296427249908
+	right : 0.6345481872558594
+	bottom: 0.25428396463394165
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.0s to 12.6s
+Confidence: 0.9225480556488037
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.5686419010162354
+	top   : 0.04079949110746384
+	right : 0.5902456045150757
+	bottom: 0.13413122296333313
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.0s to 2.16s
+Confidence: 0.8520824909210205
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.8281638622283936
+	top   : 0.018096795305609703
+	right : 0.8515428900718689
+	bottom: 0.11514667421579361
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.0s to 11.76s
+Confidence: 0.9118260145187378
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.5137317776679993
+	top   : 0.0943882167339325
+	right : 0.5434343814849854
+	bottom: 0.21125340461730957
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.0s to 6.12s
+Confidence: 0.8460822701454163
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.2011890560388565
+	top   : 0.47075560688972473
+	right : 0.23933276534080505
+	bottom: 0.6241901516914368
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.0s to 8.28s
+Confidence: 0.9125022888183594
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.8759186863899231
+	top   : 0.07983464747667313
+	right : 0.9242858290672302
+	bottom: 0.24124020338058472
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.0s to 0.72s
+Confidence: 0.8193042278289795
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.8437184691429138
+	top   : 0.01839613914489746
+	right : 0.8637638688087463
+	bottom: 0.11021757870912552
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.0s to 0.72s
+Confidence: 0.7699416875839233
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.2933025062084198
+	top   : 0.20145747065544128
+	right : 0.3264874815940857
+	bottom: 0.3690531849861145
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.0s to 1.08s
+Confidence: 0.7949880361557007
+Time offset of the first frame: 0.0s
+Bounding box position:
+	left  : 0.10471329838037491
+	top   : 0.043181370943784714
+	right : 0.14375658333301544
+	bottom: 0.1421608179807663
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.36s to 11.52s
+Confidence: 0.9558278918266296
+Time offset of the first frame: 0.36s
+Bounding box position:
+	left  : 0.9621145129203796
+	top   : 0.6031262874603271
+	right : 1.0
+	bottom: 0.7737248539924622
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.36s to 3.12s
+Confidence: 0.9048214554786682
+Time offset of the first frame: 0.36s
+Bounding box position:
+	left  : 0.023495586588978767
+	top   : 0.748658299446106
+	right : 0.07990308851003647
+	bottom: 0.9066107273101807
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.36s to 0.72s
+Confidence: 0.8173339366912842
+Time offset of the first frame: 0.36s
+Bounding box position:
+	left  : 0.37443462014198303
+	top   : 0.0029022549279034138
+	right : 0.4039553999900818
+	bottom: 0.08071515709161758
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.36s to 13.32s
+Confidence: 0.8736148476600647
+Time offset of the first frame: 0.36s
+Bounding box position:
+	left  : 0.178020641207695
+	top   : 0.4534611701965332
+	right : 0.2076440006494522
+	bottom: 0.5888853669166565
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.72s to 5.4s
+Confidence: 0.9125210046768188
+Time offset of the first frame: 0.72s
+Bounding box position:
+	left  : 0.7251960635185242
+	top   : 0.002651424380019307
+	right : 0.7509411573410034
+	bottom: 0.16666339337825775
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 0.72s to 1.08s
+Confidence: 0.7898282408714294
+Time offset of the first frame: 0.72s
+Bounding box position:
+	left  : 0.6311054825782776
+	top   : 0.08479136973619461
+	right : 0.6575658321380615
+	bottom: 0.20099642872810364
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 1.08s to 1.08s
+Confidence: 0.8259140849113464
+Time offset of the first frame: 1.08s
+Bounding box position:
+	left  : 0.5972131490707397
+	top   : 0.3858884871006012
+	right : 0.6316372752189636
+	bottom: 0.5219492316246033
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 1.08s to 1.08s
+Confidence: 0.7594154477119446
+Time offset of the first frame: 1.08s
+Bounding box position:
+	left  : 0.18428805470466614
+	top   : 0.45111533999443054
+	right : 0.22033150494098663
+	bottom: 0.5968900322914124
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 1.44s to 2.16s
+Confidence: 0.83370041847229
+Time offset of the first frame: 1.44s
+Bounding box position:
+	left  : 0.9460548162460327
+	top   : 0.18634040653705597
+	right : 0.9831357002258301
+	bottom: 0.2979829013347626
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 1.44s to 1.8s
+Confidence: 0.7711162567138672
+Time offset of the first frame: 1.44s
+Bounding box position:
+	left  : 0.6758992671966553
+	top   : 0.001333208056166768
+	right : 0.697632372379303
+	bottom: 0.08739610761404037
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 1.44s to 1.44s
+Confidence: 0.7587395310401917
+Time offset of the first frame: 1.44s
+Bounding box position:
+	left  : 0.15749120712280273
+	top   : 0.001841902732849121
+	right : 0.19247673451900482
+	bottom: 0.09356256574392319
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 1.8s to 10.08s
+Confidence: 0.8820868730545044
+Time offset of the first frame: 1.8s
+Bounding box position:
+	left  : 0.5517206192016602
+	top   : 0.9238254427909851
+	right : 0.5905686616897583
+	bottom: 1.0
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 2.16s to 4.32s
+Confidence: 0.8847387433052063
+Time offset of the first frame: 2.16s
+Bounding box position:
+	left  : 0.9101906418800354
+	top   : 0.22423683106899261
+	right : 0.9501892328262329
+	bottom: 0.373029500246048
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 2.88s to 13.32s
+Confidence: 0.9534104466438293
+Time offset of the first frame: 2.88s
+Bounding box position:
+	left  : 0.6162658333778381
+	top   : 0.9163443446159363
+	right : 0.6659000515937805
+	bottom: 0.9961009621620178
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 2.88s to 9.12s
+Confidence: 0.9603129625320435
+Time offset of the first frame: 2.88s
+Bounding box position:
+	left  : 0.2965519428253174
+	top   : 0.37509864568710327
+	right : 0.33661848306655884
+	bottom: 0.5128803849220276
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 2.88s to 4.32s
+Confidence: 0.832317590713501
+Time offset of the first frame: 2.88s
+Bounding box position:
+	left  : 0.6884832382202148
+	top   : 0.0030767773278057575
+	right : 0.7201624512672424
+	bottom: 0.0967748835682869
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 3.24s to 13.32s
+Confidence: 0.9658613204956055
+Time offset of the first frame: 3.24s
+Bounding box position:
+	left  : 0.34447789192199707
+	top   : 0.912399411201477
+	right : 0.3953320384025574
+	bottom: 0.9967532157897949
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 3.24s to 3.6s
+Confidence: 0.8801619410514832
+Time offset of the first frame: 3.24s
+Bounding box position:
+	left  : 0.06642648577690125
+	top   : 0.043157320469617844
+	right : 0.0959782674908638
+	bottom: 0.14156411588191986
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 3.6s to 3.6s
+Confidence: 0.942950963973999
+Time offset of the first frame: 3.6s
+Bounding box position:
+	left  : 0.0013300292193889618
+	top   : 0.5047833323478699
+	right : 0.04794784262776375
+	bottom: 0.6792526245117188
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 3.6s to 3.96s
+Confidence: 0.8411076068878174
+Time offset of the first frame: 3.6s
+Bounding box position:
+	left  : 0.867044985294342
+	top   : 0.06298068910837173
+	right : 0.8884131908416748
+	bottom: 0.15959221124649048
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 3.6s to 3.6s
+Confidence: 0.779779851436615
+Time offset of the first frame: 3.6s
+Bounding box position:
+	left  : 0.5078080892562866
+	top   : 0.0
+	right : 0.5307207703590393
+	bottom: 0.07644426077604294
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 3.6s to 5.04s
+Confidence: 0.7652066946029663
+Time offset of the first frame: 3.6s
+Bounding box position:
+	left  : 0.4150826930999756
+	top   : 0.043238747864961624
+	right : 0.43996599316596985
+	bottom: 0.15920652449131012
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 3.96s to 3.96s
+Confidence: 0.8751852512359619
+Time offset of the first frame: 3.96s
+Bounding box position:
+	left  : 0.29885831475257874
+	top   : 0.33930307626724243
+	right : 0.329900860786438
+	bottom: 0.45866265892982483
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 3.96s to 13.32s
+Confidence: 0.9223284721374512
+Time offset of the first frame: 3.96s
+Bounding box position:
+	left  : 0.47795039415359497
+	top   : 0.060446035116910934
+	right : 0.5025046467781067
+	bottom: 0.17801375687122345
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 4.68s to 7.8s
+Confidence: 0.947577714920044
+Time offset of the first frame: 4.68s
+Bounding box position:
+	left  : 0.03262542560696602
+	top   : 0.5820737481117249
+	right : 0.08309368044137955
+	bottom: 0.769305944442749
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 5.04s to 7.2s
+Confidence: 0.8625730872154236
+Time offset of the first frame: 5.04s
+Bounding box position:
+	left  : 0.2833453416824341
+	top   : 0.39496156573295593
+	right : 0.3188769221305847
+	bottom: 0.5251449346542358
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 5.04s to 5.4s
+Confidence: 0.8005422949790955
+Time offset of the first frame: 5.04s
+Bounding box position:
+	left  : 0.11064793914556503
+	top   : 0.0035799311008304358
+	right : 0.14220856130123138
+	bottom: 0.10554099828004837
+
+
+Entity description: animal
+Entity id: /m/0jbk
+Segment: 5.16s to 5.16s
+Confidence: 0.6806967854499817
+Time offset of the first frame: 5.16s
+Bounding box position:
+	left  : 0.9209192991256714
+	top   : 0.8740224838256836
+	right : 0.9978188276290894
+	bottom: 0.9973837733268738
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 5.4s to 6.12s
+Confidence: 0.8562023639678955
+Time offset of the first frame: 5.4s
+Bounding box position:
+	left  : 0.1645316630601883
+	top   : 0.030536117032170296
+	right : 0.1879372000694275
+	bottom: 0.12383440881967545
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 5.4s to 5.76s
+Confidence: 0.8259416818618774
+Time offset of the first frame: 5.4s
+Bounding box position:
+	left  : 0.6592686176300049
+	top   : 0.004124412313103676
+	right : 0.678899884223938
+	bottom: 0.08328636735677719
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 5.76s to 6.12s
+Confidence: 0.847819983959198
+Time offset of the first frame: 5.76s
+Bounding box position:
+	left  : 0.6047570109367371
+	top   : 0.14673981070518494
+	right : 0.6323777437210083
+	bottom: 0.2577323913574219
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 5.76s to 9.72s
+Confidence: 0.8616805672645569
+Time offset of the first frame: 5.76s
+Bounding box position:
+	left  : 0.927286684513092
+	top   : 0.09179007261991501
+	right : 0.9511891007423401
+	bottom: 0.20761871337890625
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 5.76s to 7.92s
+Confidence: 0.8482947945594788
+Time offset of the first frame: 5.76s
+Bounding box position:
+	left  : 0.8983291983604431
+	top   : 0.17062899470329285
+	right : 0.9337769746780396
+	bottom: 0.29621803760528564
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 6.48s to 7.5600000000000005s
+Confidence: 0.8540402054786682
+Time offset of the first frame: 6.48s
+Bounding box position:
+	left  : 0.10794354975223541
+	top   : 0.02039981819689274
+	right : 0.14079587161540985
+	bottom: 0.1336774379014969
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 6.48s to 13.32s
+Confidence: 0.8945986032485962
+Time offset of the first frame: 6.48s
+Bounding box position:
+	left  : 0.7198663949966431
+	top   : 0.01969984918832779
+	right : 0.7420009970664978
+	bottom: 0.14380870759487152
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 6.48s to 9.0s
+Confidence: 0.8676634430885315
+Time offset of the first frame: 6.48s
+Bounding box position:
+	left  : 0.9213707447052002
+	top   : 0.10496796667575836
+	right : 0.9479623436927795
+	bottom: 0.2124764621257782
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 6.84s to 10.8s
+Confidence: 0.9530616402626038
+Time offset of the first frame: 6.84s
+Bounding box position:
+	left  : 0.0
+	top   : 0.5458424091339111
+	right : 0.028391988947987556
+	bottom: 0.6868701577186584
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 7.2s to 13.32s
+Confidence: 0.9075878858566284
+Time offset of the first frame: 7.2s
+Bounding box position:
+	left  : 0.19821412861347198
+	top   : 0.43889930844306946
+	right : 0.2367134690284729
+	bottom: 0.5949203968048096
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 7.2s to 9.72s
+Confidence: 0.8834533095359802
+Time offset of the first frame: 7.2s
+Bounding box position:
+	left  : 0.24479930102825165
+	top   : 0.012678246013820171
+	right : 0.26944953203201294
+	bottom: 0.11172788590192795
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 7.5600000000000005s to 7.5600000000000005s
+Confidence: 0.8783568143844604
+Time offset of the first frame: 7.5600000000000005s
+Bounding box position:
+	left  : 0.5203008055686951
+	top   : 0.0
+	right : 0.5430103540420532
+	bottom: 0.07994911819696426
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 7.92s to 13.32s
+Confidence: 0.9811818599700928
+Time offset of the first frame: 7.92s
+Bounding box position:
+	left  : 0.3949161767959595
+	top   : 0.8948984146118164
+	right : 0.44491806626319885
+	bottom: 0.9958144426345825
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 7.92s to 12.24s
+Confidence: 0.8437200784683228
+Time offset of the first frame: 7.92s
+Bounding box position:
+	left  : 0.22472423315048218
+	top   : 0.44082942605018616
+	right : 0.2604786157608032
+	bottom: 0.5741317868232727
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 8.28s to 8.28s
+Confidence: 0.8591930866241455
+Time offset of the first frame: 8.28s
+Bounding box position:
+	left  : 0.6316039562225342
+	top   : 0.0003796482051257044
+	right : 0.6531214118003845
+	bottom: 0.06393150985240936
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 8.64s to 10.44s
+Confidence: 0.8848690986633301
+Time offset of the first frame: 8.64s
+Bounding box position:
+	left  : 0.2484976202249527
+	top   : 0.6646747589111328
+	right : 0.29086318612098694
+	bottom: 0.8114253878593445
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 8.64s to 9.36s
+Confidence: 0.8290045261383057
+Time offset of the first frame: 8.64s
+Bounding box position:
+	left  : 0.5182133316993713
+	top   : 0.011949681676924229
+	right : 0.5420116186141968
+	bottom: 0.11301484704017639
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 8.64s to 13.32s
+Confidence: 0.9007123708724976
+Time offset of the first frame: 8.64s
+Bounding box position:
+	left  : 0.10264042019844055
+	top   : 0.07135715335607529
+	right : 0.13863913714885712
+	bottom: 0.19510552287101746
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 9.0s to 11.16s
+Confidence: 0.9650875329971313
+Time offset of the first frame: 9.0s
+Bounding box position:
+	left  : 0.9190368056297302
+	top   : 0.31533411145210266
+	right : 0.9615423083305359
+	bottom: 0.4650622308254242
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 9.36s to 10.44s
+Confidence: 0.8460089564323425
+Time offset of the first frame: 9.36s
+Bounding box position:
+	left  : 0.018515106290578842
+	top   : 0.11700192838907242
+	right : 0.05226210877299309
+	bottom: 0.22711342573165894
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 10.08s to 13.32s
+Confidence: 0.9525373578071594
+Time offset of the first frame: 10.08s
+Bounding box position:
+	left  : 0.706692099571228
+	top   : 0.903443455696106
+	right : 0.7644379138946533
+	bottom: 0.9982200264930725
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 10.44s to 13.32s
+Confidence: 0.966594934463501
+Time offset of the first frame: 10.44s
+Bounding box position:
+	left  : 0.7835379838943481
+	top   : 0.9119665026664734
+	right : 0.8310603499412537
+	bottom: 1.0
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 10.8s to 13.32s
+Confidence: 0.8935121893882751
+Time offset of the first frame: 10.8s
+Bounding box position:
+	left  : 0.9136501550674438
+	top   : 0.09937763214111328
+	right : 0.9582059979438782
+	bottom: 0.21118594706058502
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 10.8s to 12.24s
+Confidence: 0.8107278347015381
+Time offset of the first frame: 10.8s
+Bounding box position:
+	left  : 0.38740625977516174
+	top   : 0.015297760255634785
+	right : 0.4119965136051178
+	bottom: 0.11285606026649475
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 10.8s to 13.32s
+Confidence: 0.8489607572555542
+Time offset of the first frame: 10.8s
+Bounding box position:
+	left  : 0.4865015149116516
+	top   : 0.050009217113256454
+	right : 0.518153727054596
+	bottom: 0.1841125637292862
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 11.88s to 13.32s
+Confidence: 0.9497417211532593
+Time offset of the first frame: 11.88s
+Bounding box position:
+	left  : 0.7542040944099426
+	top   : 0.9255324602127075
+	right : 0.8033322691917419
+	bottom: 0.9985254406929016
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 11.88s to 13.32s
+Confidence: 0.8532952666282654
+Time offset of the first frame: 11.88s
+Bounding box position:
+	left  : 0.5190958976745605
+	top   : 0.10476216673851013
+	right : 0.5435507297515869
+	bottom: 0.21405474841594696
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 11.88s to 13.32s
+Confidence: 0.8009912371635437
+Time offset of the first frame: 11.88s
+Bounding box position:
+	left  : 0.6333228945732117
+	top   : 0.003194622928276658
+	right : 0.6516358852386475
+	bottom: 0.06591067463159561
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 12.24s to 13.56s
+Confidence: 0.9675562977790833
+Time offset of the first frame: 12.24s
+Bounding box position:
+	left  : 0.0
+	top   : 0.5606563091278076
+	right : 0.04152468964457512
+	bottom: 0.7509452104568481
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 12.24s to 12.24s
+Confidence: 0.7619903683662415
+Time offset of the first frame: 12.24s
+Bounding box position:
+	left  : 0.9665849208831787
+	top   : 0.128143772482872
+	right : 0.9992954730987549
+	bottom: 0.25334882736206055
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 12.24s to 12.48s
+Confidence: 0.9062458276748657
+Time offset of the first frame: 12.24s
+Bounding box position:
+	left  : 0.9428772926330566
+	top   : 0.5222956538200378
+	right : 0.9924254417419434
+	bottom: 0.6808191537857056
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 12.24s to 13.32s
+Confidence: 0.8130588531494141
+Time offset of the first frame: 12.24s
+Bounding box position:
+	left  : 0.8860339522361755
+	top   : 0.04880913719534874
+	right : 0.911396324634552
+	bottom: 0.1606159508228302
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 12.96s to 12.96s
+Confidence: 0.8268685340881348
+Time offset of the first frame: 12.96s
+Bounding box position:
+	left  : 0.7369126677513123
+	top   : 0.935430109500885
+	right : 0.7918375730514526
+	bottom: 1.0
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 13.32s to 13.32s
+Confidence: 0.9635262489318848
+Time offset of the first frame: 13.32s
+Bounding box position:
+	left  : 0.5960964560508728
+	top   : 0.89408940076828
+	right : 0.6403065919876099
+	bottom: 0.996222734451294
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 13.32s to 13.32s
+Confidence: 0.9198999404907227
+Time offset of the first frame: 13.32s
+Bounding box position:
+	left  : 0.0
+	top   : 0.3311086595058441
+	right : 0.03943194821476936
+	bottom: 0.45722758769989014
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 13.32s to 13.32s
+Confidence: 0.8003592491149902
+Time offset of the first frame: 13.32s
+Bounding box position:
+	left  : 0.9159103631973267
+	top   : 0.0
+	right : 0.9503555297851562
+	bottom: 0.09568729251623154
+
+
+Entity description: person
+Entity id: /m/01g317
+Segment: 13.32s to 13.32s
+Confidence: 0.76079922914505
+Time offset of the first frame: 13.32s
+Bounding box position:
+	left  : 0.8819990158081055
+	top   : 0.0013148593716323376
+	right : 0.9189501404762268
+	bottom: 0.09122153371572495
+
+
