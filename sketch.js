@@ -1,15 +1,19 @@
+let video;
 let vibrations = [];
 
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(640, 360);
+  video = createVideo(['People_Walking.mp4']);
+
   for (let i = 0; i < 5; i++) {
     vibrations.push(new Particle(random(width), random(height)));
   }
-
 }
 
 function draw() {
-  background(70);
+	background(150);
+	image(video, 1, 1);
+
 
   for (let i = 0; i < vibrations.length; i++) {
     vibrations[i].show();
@@ -19,6 +23,7 @@ function draw() {
 
 function mousePressed() {
   vibrations.push(new Particle(mouseX, mouseY));
+  video.loop();
 }
 
 class Particle {
