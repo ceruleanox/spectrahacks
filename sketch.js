@@ -4,26 +4,46 @@ let vibrations = [];
 function setup() {
   createCanvas(640, 360);
   video = createVideo(['People_Walking.mp4']);
+  video.autoplay();
+  video.hide();
 
-  for (let i = 0; i < 5; i++) {
-    vibrations.push(new Particle(random(width), random(height)));
-  }
+  x = 0;
+  r = width;
+
 }
 
 function draw() {
-	background(150);
+	background(255);
 	image(video, 1, 1);
 
+  video.loadPixels();
+  const stepSize = round(constrain(24, 3, 32));
+  for (let y = 0; y < height; y += stepSize) {
+    for (let x = 0; x < width; x += stepSize) {
+      const i = y * width + x;
+      const darkness = (255 - video.pixels[i * 4]) / 255;
+      const radius = stepSize * darkness;
+      if (radius > 12) {
+        fill("#fff");
+        ellipse(x, y, radius, radius);
+      }
+      if (radius > 10 && radius < 12) {
+        fill("#000");
+        vibrations.push(new Particle(x, y));
+      }
+      
+    }
+  }
 
   for (let i = 0; i < vibrations.length; i++) {
     vibrations[i].show();
     vibrations[i].update();
+    if (vibrations.length > 500) {
+      vibrations.splice(0,1);
+    } 
   }
-}
 
-function mousePressed() {
-  vibrations.push(new Particle(mouseX, mouseY));
-  video.loop();
+
 }
 
 class Particle {
@@ -35,32 +55,22 @@ class Particle {
   }
 
   update() {
-    this.x = this.x + random(-5, 5);
-    this.y = this.y + random(-5, 5);
+    this.x = this.x;
+    this.y = this.y;
 
-    let v = createVector(this.x, this.y);
+    x += 0.01;
+    r -= pow(x, -1);
+    r = max(r,0);
+    ellipse(this.x, this.y, r, r);
 
-    this.history.push(v);
-    //console.log(this.history.length);
-
-    if (this.history.length > 100) {
-      this.history.splice(0, 1);
-    }
   }
 
   show() {
     stroke(255);
-    beginShape();
-    for (let i = 0; i < this.history.length; i++) {
-      let pos = this.history[i];
-      noFill();
-      vertex(pos.x, pos.y);
-      endShape();
-    }
 
     noStroke();
-    fill(200);
-    ellipse(this.x, this.y, 24, 24);
+    fill('rgba(0,0,0,.25)');
+    ellipse(this.x, this.y, 18, 10);
   }
 }
 
